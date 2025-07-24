@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack Developer** and **Data Scientist**, dedicated to building smart, scalable, and data-driven solutions. My expertise spans the **MERN stack**, **SQL**, **Django REST Framework**, and **PHP**. With a solid grounding in **HTML**, **CSS**, and **Bootstrap**, I craft clean, responsive, and user-focused web applications.
 
-Beyond writing code, I also serve as a **Data Science Instructor** at **SQI College of ICT**, where I mentor aspiring tech professionals and help simplify complex concepts.
+Beyond writing code, I also serve as a **Software Engineering Instructor** at **SQI College of ICT**, where I mentor aspiring tech professionals and help simplify complex concepts.
 
 ---
 
