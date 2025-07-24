@@ -2,9 +2,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **Data Scientist**, dedicated to building smart, scalable, and data-driven solutions. My expertise spans the **MERN stack**, **SQL**, **Django REST Framework**, and **PHP**. With a solid grounding in **HTML**, **CSS**, and **Bootstrap**, I craft clean, responsive, and user-focused web applications.
+I'm a Full Stack Developer and Data Scientist with a strong focus on building scalable, data-driven applications using technologies like **MERN**, **Django**, and **PHP**. I'm currently expanding my backend expertise by learning **Laravel**.  
 
-Beyond writing code, I also serve as a **Software Engineering Instructor** at **SQI College of ICT**, where I mentor aspiring tech professionals and help simplify complex concepts.
+I also teach **Data Science** at **SQI College of ICT**, where I mentor students on practical, industry-relevant skills.  
+
+I'm passionate about clean architecture, performance optimization, and continuous learning.
 
 ---
 
