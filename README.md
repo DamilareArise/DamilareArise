@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Damilare Arise 🚀
+# 👋 Hi, I'm Damilare Arise
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full Stack Developer and Data Scientist with a strong focus on building scalable, data-driven applications using technologies like **MERN**, **Django**, and **PHP**. I'm currently expanding my backend expertise by learning **Laravel**.  
 
